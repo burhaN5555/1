@@ -1,0 +1,33 @@
+body {
+    font-size: 20px;
+    font-family: "Roboto",sans-serif;
+    background-color: brown;
+}
+p {
+    color:blueviolet;
+    font-size: 20px;
+    font-family: "Lobster",cursive;
+}
+div{
+    width: 70%;
+    background-color: white;
+    margin: auto;
+    padding: 50px;
+    background-color: gold;
+}
+h1 {
+    color: dodgerblue;
+}
+h2 {
+    color: skyblue;
+}
+a {
+    text-decoration: none;
+    font-size: 20px;
+    color: red;
+}
+img {
+    max-width: 70%;
+    height: auto;
+    display: block;
+}
